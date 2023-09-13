@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Livro
+comment0.text=\r\n\ Uma\ classe\ que\ mant\u00E9m\ informa\u00E7\u00E3o\ de\ um\ livro.\r\n\ Ela\ pode\ ser\ parte\ de\ uma\ aplica\u00E7\u00E3o\ mair\ como\ um\ sistema\r\n\ de\ uma\ biblioteca,\ por\ exemplo.\r\n\r\n\ @author\ (Digite\ seu\ nome\ aqui.)\r\n\ @version\ (Insira\ o\ dia\ de\ hoje\ aqui.)\r\n
+comment1.params=autorLivro\ tituloLivro
+comment1.target=Livro(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Define\ os\ atributos\ autor\ e\ o\ t\u00EDtulo\ quando\ este\r\n\ objeto\ \u00E9\ criado.\r\n
+numComments=2
